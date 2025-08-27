@@ -74,7 +74,7 @@ const about = ({ location }) => {
           </p>
         </div>
 
-        <CustomLink>Go to the explorer</CustomLink>
+        <CustomLink linkTo="/explorer">Go to the explorer</CustomLink>
       </div>
     </Col>
   )
